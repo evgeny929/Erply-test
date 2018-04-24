@@ -27,7 +27,7 @@ $callback = function($msg) {
 	$api = new EAPI();
 
 	# Configuration settings
-	$api->clientCode = [client coude];
+	$api->clientCode = [client code];
 	$api->username = [login];
 	$api->password = [password];
 	$api->url = "https://".$api->clientCode.".erply.com/api/";
