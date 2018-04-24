@@ -27,9 +27,9 @@ $callback = function($msg) {
 	$api = new EAPI();
 
 	# Configuration settings
-	$api->clientCode = 399035;
-	$api->username = "evgeny929@gmail.com";
-	$api->password = "29031993Jeka";
+	$api->clientCode = [client coude];
+	$api->username = [login];
+	$api->password = [password];
 	$api->url = "https://".$api->clientCode.".erply.com/api/";
 	# Product Group
 	$groupID_product = 2;
